@@ -1,5 +1,9 @@
 # Awesome-Javascript
-A Useful Contents for Javascript Programmers.
+[<img src="https://daegwang.github.io/lab/img/js.jpg" align="right" width="120">](https://github.com/DaeGwang/awesome-javascript)
+
+A useful contents for Javascript Programmers.
+
+
 
 ### Node.js
 - __Node.js__ : https://nodejs.org/
@@ -34,13 +38,13 @@ A Useful Contents for Javascript Programmers.
 - __Mocha__ : https://mochajs.org/
 - __Jasmine__ : https://jasmine.github.io/
 
-### Text Editors
-- __Visual Studio Code__ : https://code.visualstudio.com/
-- __Sublime Text__ : https://www.sublimetext.com/
-- __Atom Editor__ : https://atom.io/
-
 ### TypeScript
 - __TypeScript__ : https://www.typescriptlang.org/
 
 ### ES6
 - __ES6__ http://es6-features.org/#StatementBodies
+
+### Text Editors
+- __Visual Studio Code__ : https://code.visualstudio.com/
+- __Sublime Text__ : https://www.sublimetext.com/
+- __Atom Editor__ : https://atom.io/
