@@ -17,7 +17,7 @@ A useful contents for Javascript Programmers.
 ### Frameworks
 - __React__ : https://facebook.github.io/react/
 - __Angular__ : https://angularjs.org/
-- __Vue.js__ : https://vuejs.org/
+- __Vue.js__ : https://vuejs.org/ ([한국어](https://kr.vuejs.org/))
 
 ### Task runners
 - __Gulp__ : http://gulpjs.com/
@@ -48,3 +48,6 @@ A useful contents for Javascript Programmers.
 - __Visual Studio Code__ : https://code.visualstudio.com/
 - __Sublime Text__ : https://www.sublimetext.com/
 - __Atom Editor__ : https://atom.io/
+
+## License
+MIT License
